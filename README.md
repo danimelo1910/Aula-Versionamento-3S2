@@ -17,5 +17,6 @@ O arquivo `README.md` é a vitrine ou a "capa" do seu projeto. É a primeira coi
 3. **[Desafio]** Clicar no ícone de lápis (editar) deste arquivo, assinar com seu nome completo e deixar um recado!
 
 Mande o seu recado aqui:
+Daniel Melo: time verde da barra funda não tem mundial
 ---
 *Feito com 💻 e foco pela nossa turma de Desenvolvimento de Sistemas.*
